@@ -1,6 +1,7 @@
 # healthcare-vr
 Initial Setup:
 - Fork and clone the repository using `git clone https://github.com/your-username/healthcare-vr.git`
+- Add remote as `git remote add upstream https://github.com/pradeep-707/healthcare-vr.git`
 
 Making changes:
 - Checkout master using `git checkout master`
