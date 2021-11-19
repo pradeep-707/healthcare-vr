@@ -24,6 +24,8 @@ EditorBuildSettings:
     path: Assets/Scenes/clastrophobia/Elevator.unity
     guid: c5d53c5116a560a40b3f5977d275ac73
     path: Assets/Scenes/SampleWithController.unity
+  - enabled: 1
+    path: Assets/Scenes/agoraphobia.unity
     guid: f47f27b6fa13ea74db78d60c6559c920
   - enabled: 1
     path: Assets/Scenes/Acro-Phobia/BasicAcroPhobia.unity
