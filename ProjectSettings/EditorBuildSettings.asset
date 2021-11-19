@@ -5,11 +5,11 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: Assets/Samples/Google Cardboard XR Plugin for Unity/1.9.0/Hello Cardboard/Scenes/HelloCardboard.unity
-    guid: 145a2a45d7bc746b19cb68410368bf96
   - enabled: 1
-    path: Assets/Scenes/SampleWithController.unity
-    guid: f47f27b6fa13ea74db78d60c6559c920
+    path: Assets/Scenes/MainMenu.unity
+    guid: 2d7b46033316ed84ab26b3a996bc023c
+  - enabled: 1
+    path: Assets/Scenes/Arachnophobia.unity
+    guid: 7e24b69095d33c44f870c38135c5833e
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 189b1e341fbabe24886ea7cffac719bf, type: 2}
