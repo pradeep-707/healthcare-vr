@@ -1,0 +1,19 @@
+using UnityEngine;
+using UnityEngine.EventSystems;
+using UnityEngine.SceneManagement;
+
+public class CheckPoints : MonoBehaviour, IPointerClickHandler
+{
+    public GameObject player;
+    Transform playerBody;
+
+    void Start()
+    {
+        playerBody = player.GetComponent<Transform>();
+    }
+    public void OnPointerClick(PointerEventData eventData)
+    {
+        Debug.Log("inside OnPointerClick");
+        Debug.Log(player);
+    }
+}
