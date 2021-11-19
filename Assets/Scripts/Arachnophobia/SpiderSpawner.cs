@@ -31,7 +31,7 @@ public class SpiderSpawner : MonoBehaviour
     [SerializeField] private TextMeshProUGUI levelText;
 
     private const float levelStartDelay = 3f;
-    private const float levelEndDelay = 10f;
+    private const float levelEndDelay = 7f;
 
     private List<SpiderLevel> spiderLevels = new List<SpiderLevel>()
     {
