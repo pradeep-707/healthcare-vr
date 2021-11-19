@@ -11,5 +11,18 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Arachnophobia.unity
     guid: 7e24b69095d33c44f870c38135c5833e
+  - enabled: 0
+    path: Assets/Samples/Google Cardboard XR Plugin for Unity/1.9.0/Hello Cardboard/Scenes/HelloCardboard.unity
+    guid: 145a2a45d7bc746b19cb68410368bf96
+  - enabled: 0
+    path: Assets/Scenes/clastrophobia/shink.unity
+    guid: f47f27b6fa13ea74db78d60c6559c920
+  - enabled: 0
+    path: Assets/Scenes/clastrophobia/shrinkhouse.unity
+    guid: 3628327253530fe41be74ac900f95c14
+  - enabled: 1
+    path: Assets/Scenes/clastrophobia/Elevator.unity
+    guid: c5d53c5116a560a40b3f5977d275ac73
   m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 9e7be553448fa2546aea5752021cbcf7, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 189b1e341fbabe24886ea7cffac719bf, type: 2}
